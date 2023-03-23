@@ -1,0 +1,28 @@
+{
+  "name": "mysql-error-keys",
+  "version": "0.1.0",
+  "description": "A list of error keys in Mysql for code assistant in JavaScript and TypeScript",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prettyblueberry/mysql-error-keys"
+  },
+  "keywords": [
+    "mysql",
+    "error",
+    "mysql-error",
+    "mysql-error-keys",
+    "mysql-error-codes",
+    "error-keys",
+    "error-codes",
+    "assistant",
+    "code-assistant",
+    "node",
+    "ts",
+    "typescript",
+    "keys"
+  ],
+  "author": "Blueberry",
+  "license": "MIT",
+  "typings": "index.d.ts"
+}

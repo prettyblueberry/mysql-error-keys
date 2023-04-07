@@ -1,7 +1,7 @@
 # mysql-error-keys
 
 [![NPM Version](https://img.shields.io/npm/v/mysql-error-keys.svg)](https://www.npmjs.com/package/mysql-error-keys)
-[![NPM Downloads](https://img.shields.io/npm/dt/mysql-error-keys.svg?style=flat)]()  
+[![NPM Downloads](https://img.shields.io/npm/dt/mysql-error-keys.svg?style=flat)](https://www.npmjs.com/package/mysql-error-keys)
 [![NPM License](https://img.shields.io/npm/l/mysql-error-keys.svg?style=flat)](https://github.com/prettyblueberry/mysql-error-keys/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues-raw/prettyblueberry/mysql-error-keys.svg?maxAge=25000)](https://github.com/prettyblueberry/mysql-error-keys/issues)
 
@@ -38,7 +38,7 @@ $ yarn add mysql-error-keys
 
 ## Usage
 
-### Using import
+### Using Import
 ```javascript
 import { mek } from 'mysql-error-keys';
 
@@ -65,7 +65,7 @@ authController.signUp({name, email, pwd}).then((res)=>{
 });
 ```
 
-### Using require
+### Using Require
 ```javascript
 const mek = require('mysql-error-keys')
 authController.signUp({name, email, pwd}).then((res)=>{

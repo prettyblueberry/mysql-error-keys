@@ -1,6 +1,6 @@
 {
   "name": "mysql-error-keys",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A list of error keys in Mysql for code assistant in JavaScript and TypeScript",
   "main": "index.js",
   "repository": {

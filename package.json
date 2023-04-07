@@ -10,14 +10,18 @@
   "keywords": [
     "mysql",
     "error",
+    "message",
+    "list",
     "mysql-error",
     "mysql-error-keys",
     "mysql-error-codes",
+    "mysql-error-messages",
     "error-keys",
     "error-codes",
     "assistant",
     "code-assistant",
     "node",
+    "node.js",
     "ts",
     "typescript",
     "keys"

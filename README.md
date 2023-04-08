@@ -95,6 +95,15 @@ authController.signUp({name, email, pwd}).then((res)=>{
 ## Error Message Reference
 [MySQL Error Message Reference](https://dev.mysql.com/doc/mysql-errors/8.0/en/server-error-reference.html)
 
+
+## Please be a contributor !
+As you know, this module always should be same as the latest version of `MySQL Error Messages`. `MySQL Error Messages` might be updated and I might miss it.
+
+So if you find an issue, please feel free to make a **pull request** and [an issue](https://github.com/prettyblueberry/mysql-error-keys/issues/new).
+
+GitHub Repository: [https://github.com/prettyblueberry/mui-datagrid-full-edit](https://github.com/prettyblueberry/mysql-error-keys)
+
+
 ## License
 
 MIT

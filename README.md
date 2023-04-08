@@ -101,7 +101,7 @@ As you know, this module always should be same as the latest version of `MySQL E
 
 So if you find an issue, please feel free to make a **pull request** and [an issue](https://github.com/prettyblueberry/mysql-error-keys/issues/new).
 
-GitHub Repository: [https://github.com/prettyblueberry/mui-datagrid-full-edit](https://github.com/prettyblueberry/mysql-error-keys)
+GitHub Repository: [https://github.com/prettyblueberry/mysql-error-keys](https://github.com/prettyblueberry/mysql-error-keys)
 
 
 ## License

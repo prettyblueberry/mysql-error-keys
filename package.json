@@ -7,6 +7,10 @@
     "type": "git",
     "url": "https://github.com/prettyblueberry/mysql-error-keys"
   },
+  "author": {
+    "name": "Blueberry",
+    "url": "https://github.com/prettyblueberry"
+  },
   "homepage": "https://github.com/prettyblueberry/mysql-error-keys/blob/main/README.md",
   "keywords": [
     "mysql",
@@ -19,6 +23,7 @@
     "mysql-error-messages",
     "error-keys",
     "error-codes",
+    "error-names",
     "assistant",
     "code-assistant",
     "node",
@@ -27,7 +32,6 @@
     "typescript",
     "keys"
   ],
-  "author": "Blueberry",
   "license": "MIT",
   "typings": "index.d.ts"
 }

@@ -8,7 +8,7 @@
 [//]: # ([![npm]&#40;https://img.shields.io/github/stars/prettyblueberry/mysql-error-keys.svg&#41;]&#40;https://github.com/prettyblueberry/mysql-error-keys&#41;)
 [//]: # ([![fork]&#40;https://img.shields.io/github/forks/prettyblueberry/mysql-error-keys.svg&#41;]&#40;https://github.com/prettyblueberry/mysql-error-keys/fork&#41;)
 
-A list of error key(string, not number) of `MySQL error messages`.
+A list of name keys (string, not number) of `MySQL error messages`.
 
 MySQL has lots of error messages, and it makes you to handle many raw key strings or code numbers in your coding.
 Here is an example.

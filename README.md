@@ -2,10 +2,10 @@
 
 [![NPM Version](https://img.shields.io/npm/v/mysql-error-keys.svg)](https://www.npmjs.com/package/mysql-error-keys)
 [![NPM Downloads](https://img.shields.io/npm/dt/mysql-error-keys.svg?style=flat)](https://www.npmjs.com/package/mysql-error-keys)
-[![NPM License](https://img.shields.io/npm/l/mysql-error-keys.svg?style=flat)](https://github.com/prettyblueberry/mysql-error-keys/blob/main/LICENSE)
+[![npm](https://img.shields.io/github/stars/prettyblueberry/mysql-error-keys.svg)](https://github.com/prettyblueberry/mysql-error-keys)
 [![Issues](https://img.shields.io/github/issues-raw/prettyblueberry/mysql-error-keys.svg?maxAge=25000)](https://github.com/prettyblueberry/mysql-error-keys/issues)
+[![NPM License](https://img.shields.io/npm/l/mysql-error-keys.svg?style=flat)](https://github.com/prettyblueberry/mysql-error-keys/blob/main/LICENSE)
 
-[//]: # ([![npm]&#40;https://img.shields.io/github/stars/prettyblueberry/mysql-error-keys.svg&#41;]&#40;https://github.com/prettyblueberry/mysql-error-keys&#41;)
 [//]: # ([![fork]&#40;https://img.shields.io/github/forks/prettyblueberry/mysql-error-keys.svg&#41;]&#40;https://github.com/prettyblueberry/mysql-error-keys/fork&#41;)
 
 A list of name keys (string, not number) of `MySQL error messages`.
